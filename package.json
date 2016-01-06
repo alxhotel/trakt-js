@@ -1,0 +1,43 @@
+{
+  "name": "trakt-js",
+  "version": "0.0.6",
+  "description": "Wrapper for Trakt.tv API",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alxhotel/trakt-js"
+  },
+  "keywords": [
+    "trakt",
+    "trakt.tv",
+    "api",
+    "json"
+  ],
+  "main": "./index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {
+    "optimist": "~0.3.0"
+  },
+  "devDependencies": {
+    "nock": "~0.14.0",
+    "should": "~1.2.0",
+    "mocha": "~1.7.0"
+  },
+  "engines": {
+    "node": ">= 0.6"
+  },
+  "directories": {
+    "lib": "./lib",
+    "bin": "./bin"
+  },
+  "bin": {
+    "trakt": "./bin/cli.js"
+  },
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ]
+}
