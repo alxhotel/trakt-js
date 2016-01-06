@@ -1,4 +1,4 @@
-node-trakt [![Build Status](https://travis-ci.org/hakovala/node-trakt.png?branch=master)](https://travis-ci.org/hakovala/node-trakt)
+trakt-js [![Build Status](https://travis-ci.org/alxhotel/trakt-js.png?branch=master)](https://travis-ci.org/alxhotel/trakt-js)
 =====
 
 NodeJS wrapper module for Trakt.tv API.
@@ -64,7 +64,7 @@ NodeJS wrapper module for Trakt.tv API.
 
 ## Copyright and license
 
-Copyright 2012 hakovala
+Copyright 2012
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
