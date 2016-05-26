@@ -6,10 +6,10 @@ NodeJS wrapper module for Trakt.tv API.
 > This is a early development version. So, expect it to change and have many bugs..
 
 ## Install
-	npm install trakt
+	npm install trakt-js
 
 ## Usage example
-	var Trakt = require('trakt');
+	var Trakt = require('trakt-js');
 	var trakt = new Trakt({username: 'username', password: 'password'}); 
 
 	var options = { query: 'american dad' }
