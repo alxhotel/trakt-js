@@ -17,12 +17,12 @@
     "test": "make test"
   },
   "dependencies": {
-    "optimist": "~0.3.0"
+    "optimist": "~0.6.1"
   },
   "devDependencies": {
-    "nock": "~0.14.0",
-    "should": "~1.2.0",
-    "mocha": "~1.7.0"
+    "nock": "~9.1.6",
+    "should": "~13.2.1",
+    "mocha": "~5.0.1"
   },
   "engines": {
     "node": ">= 0.6"
