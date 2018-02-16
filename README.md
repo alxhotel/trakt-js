@@ -1,6 +1,8 @@
 trakt-js [![Build Status](https://travis-ci.org/alxhotel/trakt-js.png?branch=master)](https://travis-ci.org/alxhotel/trakt-js)
 =====
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alxhotel/trakt-js.svg)](https://greenkeeper.io/)
+
 NodeJS wrapper module for Trakt.tv API.
 
 > This is a early development version. So, expect it to change and have many bugs..
