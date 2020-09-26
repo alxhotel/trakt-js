@@ -12,8 +12,7 @@ logs
 results
 
 node_modules
-
-npm-debug.log
+package-lock.json
 
 .coverage_data
 cover_html
