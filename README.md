@@ -1,8 +1,8 @@
 # trakt-js
 
 [![NPM Version](https://img.shields.io/npm/v/trakt-js.svg)](https://www.npmjs.com/package/trakt-js)
-[![Build Status](https://img.shields.io/travis/com/alxhotel/trakt-js/master.svg)](https://travis-ci.com/alxhotel/trakt-js)
-[![Dependency Status](https://david-dm.org/alxhotel/trakt-js/status.svg)](https://david-dm.org/alxhotel/trakt-js)
+[![Build Status](https://img.shields.io/github/workflow/status/alxhotel/trakt-js/ci/master)](https://github.com/alxhotel/trakt-js/actions)
+[![Dependency Status](https://img.shields.io/librariesio/release/npm/trakt-js)](https://libraries.io/npm/trakt-js)
 
 NodeJS wrapper module for Trakt.tv API.
 
