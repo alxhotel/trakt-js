@@ -20,7 +20,7 @@
     "optimist": "~0.6.1"
   },
   "devDependencies": {
-    "nock": "~13.4.0",
+    "nock": "~13.5.1",
     "should": "~13.2.1",
     "mocha": "~10.3.0"
   },
